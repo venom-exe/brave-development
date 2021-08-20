@@ -1,39 +1,29 @@
-<span id="a">sage@hacktronian</span>:<span id="b">~</span><span id="c">$</span> ./thehackingsage.sh
+<span id="a">brave@development</span>:<span id="b">~</span><span id="c">$</span> ./braveop.sh
 
- /$$      /$$            /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$$$  
-| $$$    /$$$           /$$__  $$ /$$__  $$ /$$__  $$| $$_____/  
-| $$$$  /$$$$  /$$$$$$ | $$  \__/| $$  \ $$| $$  \__/| $$        
-| $$ $$/$$ $$ /$$__  $$|  $$$$$$ | $$$$$$$$| $$ /$$$$| $$$$$     
-| $$  $$$| $$| $$  \__/ \____  $$| $$__  $$| $$|_  $$| $$__/     
-| $$\  $ | $$| $$       /$$  \ $$| $$  | $$| $$  \ $$| $$        
-| $$ \/  | $$| $$ /$$  |  $$$$$$/| $$  | $$|  $$$$$$/| $$$$$$$$  
-|__/     |__/|__/|__/   \______/ |__/  |__/ \______/ |________/  
+██████╗ ██████╗  █████╗ ██╗   ██╗███████╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝
+██████╔╝██████╔╝███████║██║   ██║█████╗  
+██╔══██╗██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  
+██████╔╝██║  ██║██║  ██║ ╚████╔╝ ███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝
 
-cybersecurity enthusiast / penetration tester
+WEBSITE/DISCORD BOTS/INSTAGRAM BOTS/TOOL'S DEVELOPER'S
 
-portfolio : <a href="https://thehackingsage.com" target="_blank">https://thehackingsage.com</a>
+portfolio : <a href="https://www.brv-dev.tk" target="_blank">https://www.brv-dev.tk</a>
 
-instagram : <a href="https://instagram.com/thehackingsage" target="_blank">https://instagram.com/thehackingsage</a>
+instagram : <a href="https://instagram.com/itz_me_venomop" target="_blank">https://instagram.com/itz_me_venomop</a>
 
-twitter : <a href="https://twitter.com/thehackingsage" target="_blank">https://twitter.com/thehackingsage</a>
+github : <a href="https://github.com/venom-exe" target="_blank">https://github.com/venom-exe</a>
 
-github : <a href="https://github.com/thehackingsage" target="_blank">https://github.com/thehackingsage</a>
+youtube : <a href="https://youtube.com/venomexe" target="_blank">https://youtube.com/venomexe</a>
 
-youtube : <a href="https://youtube.com/hacktronian" target="_blank">https://youtube.com/hacktronian</a>
+whatsapp : <a href="https://wa.me/+918597305559" target="_blank">+918597305559</a>
 
-hackthebox : <a href="https://hackthebox.eu/profile/38608" target="_blank">https://hackthebox.eu/profile/38608</a>
+telegram : <a href="https://t.me/teamerrorbins" target="_blank">https://t.me/teamerrorbins</a>
 
-tryhackme : <a href="https://tryhackme.com/mr.sage" target="_blank">https://tryhackme.com/mr.sage</a>
+for business enquiries : <a href="mailto:venomop960@gmail.com" target="_blank">venomop960@gmail.com</a>
 
-whatsapp : <a href="https://wa.me/+919044264043" target="_blank">+919044264043</a>
+if you are looking for some resources
+visit my website : <a href="https://https://www.brv-dev.tk" target="_blank">https://https://www.brv-dev.tk</a>
 
-telegram : <a href="https://t.me/thehackingsage" target="_blank">https://t.me/thehackingsage</a>
-
-for business enquiries : <a href="mailto:thehackingsage@protonmail.com" target="_blank">thehackingsage@protonmail.com</a>
-
-if you are looking for cybersecurity resources, training, workshop or services, 
-visit my website : <a href="https://hacktronian.in" target="_blank">https://hacktronian.in</a>
-
-follow hacktronian : <a href="https://allmylinks.com/hacktronian" target="_blank">https://allmylinks.com/hacktronian</a>
-
-<span id="k">&#169; HACKTRONIAN / https://hacktronian.in</span>
+<span id="k">&#169; BRAVE DEVELOPMENT / https://https://www.brv-dev.tk</span>
